@@ -36,22 +36,22 @@ make brain-gcd
 ```
 
 ## Examples of work: 
-**brain-even**
+**make brain-even**
 
-[![asciicast](https://asciinema.org/a/584719.svg)](https://asciinema.org/a/584719)
+[![asciicast](https://asciinema.org/a/584785.svg)](https://asciinema.org/a/584785)
 
-**brain-calc**
+**make brain-calc**
 
-[![asciicast](.svg)]()
+[![asciicast](https://asciinema.org/a/584791.svg)](https://asciinema.org/a/584791)
 
-**brain-gcd**
+**make brain-gcd**
 
-[![asciicast](.svg)]()
+[![asciicast](https://asciinema.org/a/584792.svg)](https://asciinema.org/a/584792)
 
-**brain-progression**
+**make brain-progression**
 
-[![asciicast](.svg)]()
+[![asciicast](https://asciinema.org/a/584794.svg)](https://asciinema.org/a/584794)
 
-**brain-prime**
+**make brain-prime**
 
-[![asciicast](.svg)]()
+[![asciicast](https://asciinema.org/a/584802.svg)](https://asciinema.org/a/584802)
