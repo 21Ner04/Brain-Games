@@ -27,7 +27,7 @@ const rulQuestAndAns = () => {
 };
 
 const calcGame = () => {
-startGame(description, rulQuestAndAns);
+  startGame(description, rulQuestAndAns);
 };
 
-export default calcGame; 
+export default calcGame;
