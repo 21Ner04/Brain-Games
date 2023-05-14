@@ -20,38 +20,38 @@ make install
 ```
 2. Game launch:
 ```
-make brain-even
+brain-even
 ```
 ```
-make brain-prime
+brain-prime
 ```
 ```
-make brain-calc
+brain-calc
 ```
 ```
-make brain-progression
+brain-progression
 ```
 ```
-make brain-gcd
+brain-gcd
 ```
 
 ## Examples of work: 
-**make brain-even**
+**brain-even**
 
-[![asciicast](https://asciinema.org/a/584785.svg)](https://asciinema.org/a/584785)
+[![asciicast](https://asciinema.org/a/584818.svg)](https://asciinema.org/a/584818)
 
-**make brain-calc**
+**brain-calc**
 
-[![asciicast](https://asciinema.org/a/584791.svg)](https://asciinema.org/a/584791)
+[![asciicast](https://asciinema.org/a/584819.svg)](https://asciinema.org/a/584819)
 
-**make brain-gcd**
+**brain-gcd**
 
-[![asciicast](https://asciinema.org/a/584792.svg)](https://asciinema.org/a/584792)
+[![asciicast](https://asciinema.org/a/584820.svg)](https://asciinema.org/a/584820)
 
-**make brain-progression**
+**brain-progression**
 
-[![asciicast](https://asciinema.org/a/584794.svg)](https://asciinema.org/a/584794)
+[![asciicast](https://asciinema.org/a/584821.svg)](https://asciinema.org/a/584821)
 
-**make brain-prime**
+**brain-prime**
 
-[![asciicast](https://asciinema.org/a/584796.svg)](https://asciinema.org/a/584796)
+[![asciicast](https://asciinema.org/a/584822.svg)](https://asciinema.org/a/584822)
