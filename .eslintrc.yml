@@ -11,3 +11,4 @@ rules:
     - error
     - ignorePackages
     - js: always
+    

@@ -26,4 +26,4 @@ const primeGame = () => {
   startGame(description, rulQuestAndAns);
 };
 
-export default primeGame
+export default primeGame 

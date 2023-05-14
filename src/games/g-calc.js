@@ -30,4 +30,4 @@ const calcGame = () => {
   startGame(description, rulQuestAndAns);
 };
 
-export default calcGame;
+export default calcGame; 
