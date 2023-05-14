@@ -54,4 +54,4 @@ make brain-gcd
 
 **make brain-prime**
 
-[![asciicast](https://asciinema.org/a/584802.svg)](https://asciinema.org/a/584802)
+[![asciicast](https://asciinema.org/a/584796.svg)](https://asciinema.org/a/584796)
