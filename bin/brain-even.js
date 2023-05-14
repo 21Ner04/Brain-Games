@@ -1,3 +1,5 @@
-#!/usr/bin/env nod
+#!/usr/bin/env node
+
 import evenGame from '../src/games/g-even.js';
+
 evenGame();

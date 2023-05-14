@@ -23,4 +23,3 @@ const gcdGame = () => {
 };
 
 export default gcdGame;
-

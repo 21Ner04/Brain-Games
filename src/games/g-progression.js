@@ -6,6 +6,7 @@ const description = 'What number is missing in the progression?';
 const progressLogic = (progressBegin, progressLength, stepProgress) => {
   let arr = [];
   for (let i = 0; i < progressLength; i += 1) {
+    // ------ progression formation. ---------------
     arr.push(progressBegin + (i * stepProgress));
   }
   const pass = arr[Math.floor(Math.random() * arr.length)];
