@@ -23,7 +23,7 @@ const rulQuestAndAns = () => {
 };
 
 const primeGame = () => {
-  startGame(description, rulQuestAndAns);
+startGame(description, rulQuestAndAns);
 };
 
-export default primeGame 
+export default primeGame;
