@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/01968d1dd67f0cac8645/maintainability)](https://codeclimate.com/github/21Ner04/fullstack-javascript-project-44/maintainability)
 
 # Brain-Games:
-**Brain-games — is a set of five console games that have to do with brain training. Each game has its own rules and questions, by answering 3 questions correctly you win. However, if the answer is wrong, the game automatically starts over again.**
+**Project description: my first Hexlet JS project, where I set up the environment by myself and create simple text-based games in the console.**
 
 ## Catalog of games: 
 * Even or odd number game.
@@ -20,19 +20,19 @@ make install
 ```
 2. Game launch:
 ```
-brain-even
+make brain-even
 ```
 ```
-brain-prime
+make brain-prime
 ```
 ```
-brain-calc
+make brain-calc
 ```
 ```
-brain-progression
+make brain-progression
 ```
 ```
-brain-gcd
+make brain-gcd
 ```
 
 ## Examples of work: 
